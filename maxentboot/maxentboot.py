@@ -7,7 +7,7 @@ def trimmed_mean(x: pd.Series, trim: float = 0.1) -> float:
     return x.sort_values()[int(len(x) * trim) : int(len(x) * (1 - trim))].mean()
 
 
-def meboot(x: pd.Series, num_replicates=9999, trim=0.1):
+def maxentboot(x: pd.Series, num_replicates=9999, trim=0.1):
     """Maximum Entropy Time Series Bootstrap"""
     if not isinstance(x, pd.Series):
         raise TypeError("`x` should be a pandas.Series")

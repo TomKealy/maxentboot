@@ -1,4 +1,4 @@
-"""Top-level package for meboot."""
+"""Top-level package for maxentboot."""
 
 __author__ = """Thomas Kealy"""
 __email__ = 'tom.kealy.tk@gmail.com'
