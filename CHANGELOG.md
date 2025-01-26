@@ -10,3 +10,7 @@
 - CLI interface for processing data
 - Unit tests and test coverage setup
 - Documentation and usage examples
+
+## [1.0.3] - 2024-01-26
+### Added
+- updated python version.
