@@ -2,11 +2,11 @@
 
 ## Stable release
 
-To install meboot, run this command in your
+To install maxentboot, run this command in your
 terminal:
 
 ``` console
-$ pip install meboot
+$ pip install maxentboot
 ```
 
 This is the preferred method to install meboot, as it will always install the most recent stable release.
@@ -16,19 +16,19 @@ can guide you through the process.
 
 ## From source
 
-The source for meboot can be downloaded from
+The source for maxentboot can be downloaded from
 the [Github repo][].
 
 You can either clone the public repository:
 
 ``` console
-$ git clone git://github.com/TomKealy/meboot
+$ git clone git://github.com/TomKealy/maxentboot
 ```
 
 Or download the [tarball][]:
 
 ``` console
-$ curl -OJL https://github.com/TomKealy/meboot/tarball/master
+$ curl -OJL https://github.com/TomKealy/maxentboot/tarball/master
 ```
 
 Once you have a copy of the source, you can install it with:

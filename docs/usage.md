@@ -3,5 +3,5 @@
 To use meboot in a project
 
 ```
-import meboot
+import maxentboot
 ```

@@ -1,8 +1,8 @@
 [tool]
 [tool.poetry]
 name = "maxentboot"
-version = "0.1.0"
-homepage = "https://github.com/TomKealy/meboot"
+version = "1.0"
+homepage = "https://github.com/TomKealy/maxentboot"
 description = "Maximum Entropy Bootstrap for timeseries."
 authors = ["Thomas Kealy <tom.kealy.tk@gmail.com>"]
 readme = "README.md"
