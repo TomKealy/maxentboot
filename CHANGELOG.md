@@ -14,3 +14,7 @@
 ## [1.0.3] - 2024-01-26
 ### Added
 - updated python version.
+
+## [1.0.4] - 2024-01-26
+### Added
+- updated dependencies
