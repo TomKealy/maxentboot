@@ -19,7 +19,7 @@ classifiers=[
     'Programming Language :: Python :: 3.9',
 ]
 packages = [
-    { include = "meboot" },
+    { include = "maxentboot" },
     { include = "tests", format = "sdist" },
 ]
 
@@ -72,7 +72,7 @@ doc = [
     ]
 
 [tool.poetry.scripts]
-meboot = 'meboot.cli:main'
+maxentboot = 'maxentboot.cli:main'
 
 [tool.black]
 line-length = 120
