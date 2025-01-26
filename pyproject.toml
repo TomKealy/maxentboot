@@ -1,6 +1,6 @@
 [tool]
 [tool.poetry]
-name = "meboot"
+name = "maxentboot"
 version = "0.1.0"
 homepage = "https://github.com/TomKealy/meboot"
 description = "Maximum Entropy Bootstrap for timeseries."
