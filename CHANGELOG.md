@@ -38,3 +38,8 @@
 ## [1.0.9] - 2024-01-27
 ### Added
 - remove documentation
+
+
+## [1.0.9.1] - 2024-01-27
+### Added
+- update permissions
