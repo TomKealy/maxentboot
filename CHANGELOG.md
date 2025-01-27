@@ -26,3 +26,7 @@
 ## [1.0.6] - 2024-01-27
 ### Added
 - updated docstring dependencies
+
+## [1.0.7] - 2024-01-27
+### Added
+- updated docstring dependencies
