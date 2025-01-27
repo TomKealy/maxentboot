@@ -43,3 +43,7 @@
 ## [1.0.9.1] - 2024-01-27
 ### Added
 - update permissions
+
+## [1.0.10] - 2024-01-27
+### Added
+- update permissions
